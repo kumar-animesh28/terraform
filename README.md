@@ -1,4 +1,4 @@
 # terraform
 
-terraform init
+terraform init \n
 terraform apply -auto-approve
